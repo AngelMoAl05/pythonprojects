@@ -1,4 +1,4 @@
-#---Check if Palindrome---#
+#---Check if a word is palindrome---#
 
 def palindrome(word):
     new_word = word[::-1]
